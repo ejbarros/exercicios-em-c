@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Meu primeiro programa no GitHub!\n");
+    printf("Meu primeiro programa em C, atualizado no GitHub!\n");
 
     return 0;
 }
